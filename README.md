@@ -1,4 +1,4 @@
-# Bucket Dashboard
+# Buckets Dashboard
 
 This is very simple PHP dashboard for [Buckets](https://www.budgetwithbuckets.com).
 
