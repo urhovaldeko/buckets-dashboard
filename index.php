@@ -3,7 +3,7 @@
 date_default_timezone_set('Europe/Tallinn');
 
 # This is your budget file
-$budget = "/Users/urhovaldeko/Nextcloud/Documents/Buckets/Budget.buckets";
+$budget = "/Users/urhovaldeko/Documents/Buckets/Budget.buckets";
 
 # Buckets that have the same amount at the start of each month
 $monthly_buc = array(6, 7, 14, 2);
